@@ -4,7 +4,7 @@
 
 ## Навыки: 
 - Python: pandas, numpy, matplotlib, seaborn, requests, BeautifulSoup.
-- Анализ данных: EDA, очистка данных, анализ пропусков и дубликатов, базовая визуализация.
+- Анализ данных: EDA(очистка данных, анализ пропусков и дубликатов, базовая визуализация).
 - Статистика: z-test для долей, chi-square, Mann-Whitney U, основы A/B-тестов.
 - Продуктовая аналитика: гипотезы, unit economics.
 - Дэшборды: Google Sheets, базовый Power BI.
